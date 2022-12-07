@@ -84,8 +84,8 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
 
       
 <h1> Results</h1>
-      <h3></h3>
-      <p1></p1>
+      <h3>Logistic Regression</h3>
+      <p1>Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. The nature of target or dependent variable is dichotomous, which means there would be only two possible classes. In simple words, the dependent variable is binary in nature having data coded as either 1 (stands for success/yes) or 0 (stands for failure/no). Logistic regression model predicts P(Y=1) as a function of X.</p1>
       <h3></h3>
       <p1></p1>
       
