@@ -6,7 +6,7 @@
 ### Powerpoint Presentation: https://github.com/kasamdh/CourseProject/blob/main/CS%20410%20%E2%80%93%20Final%20Presentation.pptx
 ### Final Project Documentation:https://github.com/kasamdh/CourseProject/blob/main/Final_Project_Documentation.pdf
 
-<h3>Team Members</h3>
+<h1>Team Members</h1>
       
 * Kasam Dhakal (kdhakal2@illinois.edu) <br/>
 
@@ -14,11 +14,11 @@
 
 * Parth Shukla (pshukl21@illinois.edu )<br/>
 
-<h3>Goal</h3>
+<h1>Goal</h1>
 <p>Capture sentiment analysis, collect Twitter sentiment towards the stock market.</p>
 
 
-<h3> Introduction: </h3>
+<h1> Introduction: </h1>
 <p1> Numerous factors, including both internal and external factors, can affect and move the stock market. Various data mining techniques are frequently employed to address this problem. Stock prices change instantly due to shifts in supply and demand. On the other hand, machine learning will offer a more precise, accurate, and logical method for addressing stock and market price concerns. A novel approach to creating simulation models that can predict stock market movements and whether they will increase, or decrease has been improved using ML algorithms. Several sentiment analysis studies used Support vector machines (SVM), Naive Bayes regression, Random Forest Classifier, and other techniques. The effectiveness of machine learning algorithms depends on the quantity of training data available.  To begin, we train many algorithms using Sentiment 5792 clean Twitter data. We utilized SVM to ascertain the typical sentiment of tweets for each trade day because this was the emotional analysis that performed the best. </p1>
 <h3>Problem Statement: </h3>
 <p1> In this project, we attempt to put into practice an NLP Twitter sentiment analysis model that aids in overcoming the difficulties associated with determining the sentiments of the tweets. The following information is necessary for the dataset used in the twitter sentiment analysis project:
@@ -27,7 +27,7 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
 1.Text:  Twitter data <br/>
 2.Sentiment: Labeled data corpus for Sentiment AnalysisSentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files.                 Probability of positive and negative Compound values in a range of -1 to 1, where -1 represents negative for each tweet. <br/> </p1>
 
-<h3>Tools, System and Dataset </h3>
+<h1>Tools, System and Dataset </h1>
 
  * Google Collab <br/>
 
@@ -37,7 +37,7 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
   
  * Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis <br/>
 
-<h3> Instructions on how to install the software <h3/>
+<h1> Instructions on how to install the software <h1/>
       
 <p1> For this project we have used Google Collab</p1>
 1. Login to the google account. Create a new account if you don’t have already.<br/>
