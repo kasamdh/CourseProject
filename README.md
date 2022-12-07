@@ -50,6 +50,7 @@ https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.
 
 
 
+![image](https://user-images.githubusercontent.com/22782181/206098930-94f1ab13-a1a4-4675-8710-eda33a541336.png)
 
 
 
