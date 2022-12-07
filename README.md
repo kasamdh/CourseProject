@@ -65,8 +65,24 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
       
 <h1> Processing</h1>
-<h1> Analysis/<h1>
+      <h3>Data Collection</h3>
+      <h3>Data Cleaning</h3>
+      <h3>Vectorization</h3>
+      <h3>TF-IDF Transformer</h3>
+<h1> Analysis</h1>
+      <h3>Sentiment Analysis and Data Visualization</h3>
 <h1> Results</h1>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+      <h3></h3>
+ <h1> Test</h1>
+      <h3></h3>
       
       
 
