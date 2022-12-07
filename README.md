@@ -18,8 +18,8 @@
 <p1> In this project, we attempt to put into practice an NLP Twitter sentiment analysis model that aids in overcoming the difficulties associated with determining the sentiments of the tweets. The following information is necessary for the dataset used in the twitter sentiment analysis project:
 The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis), consists of 5972 cleaned tweets that were retrieved using the Twitter API. The dataset's numerous columns include:
       
-    1.Text:  Twitter data <br/>
-    2.Sentiment: Labeled data corpus for Sentiment AnalysisSentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files.                 Probability of positive and negative Compound values in a range of -1 to 1, where -1 represents negative for each tweet. <br/> </p1>
+1.Text:  Twitter data <br/>
+2.Sentiment: Labeled data corpus for Sentiment AnalysisSentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files.                 Probability of positive and negative Compound values in a range of -1 to 1, where -1 represents negative for each tweet. <br/> </p1>
 
 <h3>Tools, System and Dataset </h3>
 
