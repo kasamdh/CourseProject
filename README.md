@@ -61,7 +61,8 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
  <h1>Process flow diagram</h1>
       
-      ![image](https://user-images.githubusercontent.com/22782181/206099468-8195e993-89bb-4361-9257-3de26e9f7ffe.png)
+     ![image](https://user-images.githubusercontent.com/22782181/206099574-e52cfefc-0330-490d-a310-af5436587d85.png)
+
 
       
 
