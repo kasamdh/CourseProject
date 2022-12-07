@@ -18,10 +18,10 @@
 <p>Capture sentiment analysis, collect Twitter sentiment towards the stock market.</p>
 
 
-<h1> Introduction: </h1>
+<h1> Introduction </h1>
 <p1> Numerous factors, including both internal and external factors, can affect and move the stock market. Various data mining techniques are frequently employed to address this problem. Stock prices change instantly due to shifts in supply and demand. On the other hand, machine learning will offer a more precise, accurate, and logical method for addressing stock and market price concerns. A novel approach to creating simulation models that can predict stock market movements and whether they will increase, or decrease has been improved using ML algorithms. Several sentiment analysis studies used Support vector machines (SVM), Naive Bayes regression, Random Forest Classifier, and other techniques. The effectiveness of machine learning algorithms depends on the quantity of training data available.  To begin, we train many algorithms using Sentiment 5792 clean Twitter data. We utilized SVM to ascertain the typical sentiment of tweets for each trade day because this was the emotional analysis that performed the best. </p1>
 
-<h1>Problem Statement: </h1>
+<h1>Problem Statement </h1>
 <p1> In this project, we attempt to put into practice an NLP Twitter sentiment analysis model that aids in overcoming the difficulties associated with determining the sentiments of the tweets. The following information is necessary for the dataset used in the twitter sentiment analysis project:
 The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis), consists of 5972 cleaned tweets that were retrieved using the Twitter API. The dataset's numerous columns include:
       
@@ -47,8 +47,6 @@ https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.
 3. Upload the source code to Collab (http://colab.research.google.com/)<br/>
       Steps: From http://colab.research.google.com/<br/>
       Select: File ->Upload Notebook->Upload->Choose File<br/>
-
-
 
 
 ![image](https://user-images.githubusercontent.com/22782181/206098930-94f1ab13-a1a4-4675-8710-eda33a541336.png)
@@ -81,7 +79,6 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
 <h1> Analysis</h1>
       <h3>Sentiment Analysis and Data Visualization</h3>
 <p1>Labeled data corpus for Sentiment Analysis SentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files. Outputs: Probability of positive and negative. Compound values in a range of -1 to 1, where -1 represents negative for each tweet. The compound value is comparable to a single measure of polarity. </p1>
-
       
 <h1> Results</h1>
       <h3>Logistic Regression</h3>
