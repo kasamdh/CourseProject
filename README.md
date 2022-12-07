@@ -37,8 +37,6 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
   
  * Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis <br/>
 
-<h3> Instructions on how to install the software
-![image](https://user-images.githubusercontent.com/22782181/206098417-23cee046-5aa5-4043-b14f-bfc97439802e.png)
- <h3/>
+<h3> Instructions on how to install the software <h3/>
 
 
