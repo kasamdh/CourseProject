@@ -65,17 +65,17 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
       
 <h1> Processing</h1>
-      <h3>Data Collection</h3>
-      Import Stopwords corpus for cleaning the tweets, split data into train, test.
+<h3>Data Collection</h3>
+<p1> Import Stopwords corpus for cleaning the tweets, split data into train, test./p1>
       
-      <h3>Data Cleaning</h3>
-      <p1></p1>
+<h3>Data Cleaning</h3>
+<p1></p1>
       
-      <h3>Vectorization</h3>
-      There are set of techniques use for extracting meaningful information from text corpus. Which is word vectorization. A word in a vector in the text corpus.
+<h3>Vectorization</h3>
+<p>There are set of techniques use for extracting meaningful information from text corpus. Which is word vectorization. A word in a vector in the text corpus. </p>
       
-      <h3>TF-IDF Transformer</h3>
-     The vectorization method widely used in text mining to reflect the importance of a term to a document in the corpus.
+<h3>TF-IDF Transformer</h3>
+<p> The vectorization method widely used in text mining to reflect the importance of a term to a document in the corpus.</p>
       
 <h1> Analysis</h1>
       <h3>Sentiment Analysis and Data Visualization</h3>
