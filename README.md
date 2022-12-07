@@ -1,4 +1,5 @@
-# Stock Market Tweet Analysis
+# Final Project Stock Market Tweet Analysis
+## Date: 12/7/2022
 
 ### Source Code: https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
 ### Video Tutorial/Presentation: https://youtu.be/Lpwx3a3o3X0
