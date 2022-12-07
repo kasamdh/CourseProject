@@ -8,6 +8,8 @@
 
 <h3>Team Members</h3>
       * Kasam Dhakal (kdhakal2@illinois.edu) <br/>
+      
+       * Kasam Dhakal (kdhakal2@illinois.edu) <br/>
 
    * Nisarg Mistry (nmistry2@illinois.edu)<br/>
 
