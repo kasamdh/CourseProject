@@ -23,12 +23,12 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
 
 <h3>Tools, System and Dataset </h3>
 
-     * Google Collab
+ Google Collab <br/>
 
-     * http://www.tweepy.org/ - Python Library to access the Twitter API 
+ http://www.tweepy.org/ - Python Library to access the Twitter API  <br/>
 
-     * http://www.nltk.org/ - Natural Language Toolkit
-
-     * Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis
+ http://www.nltk.org/ - Natural Language Toolkit <br/>
+  
+ Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis <br/>
 
 
