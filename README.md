@@ -111,11 +111,10 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
  <h1> Test</h1>
       <h3>Classifier Test</h3>
-      <p1>
-      * Classifier on input </br>
+     * Classifier on input </br>
      *  Multinomial Naive Bayes Classifier</br>
 
-</p1>
+
       
       
 
