@@ -7,11 +7,10 @@
 ### Final Project Documentation:https://github.com/kasamdh/CourseProject/blob/main/Final_Project_Documentation.pdf
 
 <h3>Team Members</h3>
-      * Kasam Dhakal (kdhakal2@illinois.edu) <br/>
       
-       * Kasam Dhakal (kdhakal2@illinois.edu) <br/>
+* Kasam Dhakal (kdhakal2@illinois.edu) <br/>
 
-   * Nisarg Mistry (nmistry2@illinois.edu)<br/>
+* Nisarg Mistry (nmistry2@illinois.edu)<br/>
 
 * Parth Shukla (pshukl21@illinois.edu )<br/>
 
