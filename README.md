@@ -25,7 +25,7 @@
 <p1> In this project, we attempt to put into practice an NLP Twitter sentiment analysis model that aids in overcoming the difficulties associated with determining the sentiments of the tweets. The following information is necessary for the dataset used in the twitter sentiment analysis project:
 The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis), consists of 5972 cleaned tweets that were retrieved using the Twitter API. The dataset's numerous columns include:
       
-1.Text:  Twitter data <br/>
+1.Text: Twitter Data <br/>
 2.Sentiment: Labeled data corpus for Sentiment AnalysisSentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files.                 Probability of positive and negative Compound values in a range of -1 to 1, where -1 represents negative for each tweet. <br/> </p1>
 
 <h1>Tools, System and Dataset </h1>
@@ -40,20 +40,18 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
 
 <h1> Instructions on how to install the software <h1/>
       
-<p1> For this project we have used Google Collab </p1>
+For this project we have used Google Collab 
 1. Login to the google account. Create a new account if you don’t have already.<br/>
 2. Download the source code from GitHub.<br/>
 https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
 3. Upload the source code to Collab (http://colab.research.google.com/)<br/>
       Steps: From http://colab.research.google.com/<br/>
       Select: File ->Upload Notebook->Upload->Choose File<br/>
-
-
 ![image](https://user-images.githubusercontent.com/22782181/206098930-94f1ab13-a1a4-4675-8710-eda33a541336.png)
       
 4. Dataset Connection to Connect to Google Drive: 
 (https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv)
-Steps: Download the stock_data.csv from GitHub and upload data set to the 		Google Drive.
+Steps: Download the stock_data.csv from GitHub and upload data set to the Google Drive.
 File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR = mypath + “ ” in the Initilized relevant data URI’s section in 	Google Collab
 
 ![image](https://user-images.githubusercontent.com/22782181/206099191-6baef16f-44eb-44ca-836d-d6a91c447280.png)
