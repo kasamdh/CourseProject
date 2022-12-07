@@ -1,3 +1,8 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Source Code: https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
+Data: https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv
+Video Tutorial/Presentation: https://youtu.be/Lpwx3a3o3X0
+Powerpoint Presentation: https://github.com/kasamdh/CourseProject/blob/main/CS%20410%20%E2%80%93%20Final%20Presentation.pptx
+Final Project Documentation:https://github.com/kasamdh/CourseProject/blob/main/Final_Project_Documentation.pdf
+
