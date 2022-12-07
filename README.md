@@ -1,4 +1,4 @@
-# CourseProject
+# Stock Market Tweet Analysis
 
 Source Code: https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
 Data: https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv
