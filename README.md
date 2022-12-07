@@ -66,23 +66,56 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
 <h1> Processing</h1>
       <h3>Data Collection</h3>
+      <p1>Import Stopwords corpus for cleaning the tweets, split data into train, test.</p1>
+      
       <h3>Data Cleaning</h3>
+      <p1></p1>
+      
       <h3>Vectorization</h3>
+      <p1>There are set of techniques use for extracting meaningful information from text corpus. Which is word vectorization. A word in a vector in the text corpus. </p1>
+      
       <h3>TF-IDF Transformer</h3>
+      <p1>The vectorization method widely used in text mining to reflect the importance of a term to a document in the corpus.</p1>
+      
 <h1> Analysis</h1>
       <h3>Sentiment Analysis and Data Visualization</h3>
+      <p1></p1>
+      
 <h1> Results</h1>
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
       <h3></h3>
+      <p1></p1>
+      
  <h1> Test</h1>
-      <h3></h3>
+      <h3>Classifier Test</h3>
+      <p1>
+      * Classifier on input </br>
+     *  Multinomial Naive Bayes Classifier</br>
+
+</p1>
       
       
 
@@ -125,13 +158,7 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
       
       
-      
-      
-      
-      
-      
-      
-      
+    
       
       
       
