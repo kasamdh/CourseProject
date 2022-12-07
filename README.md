@@ -40,7 +40,7 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
 
 <h1> Instructions on how to install the software <h1/>
       
-For this project we have used Google Collab 
+<p5>For this project we have used Google Collab </p5>
 1. Login to the google account. Create a new account if you don’t have already.<br/>
 2. Download the source code from GitHub.<br/>
 https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
@@ -58,7 +58,7 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
  <h1>Process flow diagram</h1>
       
-      ![image](https://user-images.githubusercontent.com/22782181/206099691-a5372c7b-638f-443c-ae18-b986df382242.png) 
+ ![image](https://user-images.githubusercontent.com/22782181/206099691-a5372c7b-638f-443c-ae18-b986df382242.png) 
       
       
 <h1> Processing</h1>
