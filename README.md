@@ -66,10 +66,10 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
 <h1> Processing</h1>
 <h3>Data Collection</h3>
-<p1> Import Stopwords corpus for cleaning the tweets, split data into train, test./p1>
+<p1> Tweet data from https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis.</p1>
       
 <h3>Data Cleaning</h3>
-<p1></p1>
+<p1>Import Stopwords corpus for cleaning the tweets, split data into train, test.</p1>
       
 <h3>Vectorization</h3>
 <p>There are set of techniques use for extracting meaningful information from text corpus. Which is word vectorization. A word in a vector in the text corpus. </p>
