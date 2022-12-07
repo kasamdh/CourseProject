@@ -58,6 +58,10 @@ Steps: Download the stock_data.csv from GitHub and upload data set to the 		Goog
 File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR = mypath + “ ” in the Initilized relevant data URI’s section in 	Google Collab
 
 ![image](https://user-images.githubusercontent.com/22782181/206099191-6baef16f-44eb-44ca-836d-d6a91c447280.png)
+      
+ <h1>Process flow diagram</h1>
+      ![image](https://user-images.githubusercontent.com/22782181/206099365-70649d77-4b06-46f0-92b6-122a450b42d6.png)
+
 
       
     
