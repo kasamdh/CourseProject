@@ -87,8 +87,8 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       <h3>Logistic Regression</h3>
       <p1>Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. The nature of target or dependent variable is dichotomous, which means there would be only two possible classes. In simple words, the dependent variable is binary in nature having data coded as either 1 (stands for success/yes) or 0 (stands for failure/no). Logistic regression model predicts P(Y=1) as a function of X.</p1>
       <h3>Support Vector Machine (SVM)</h3>
-      <p1>Support Vector Machine: An SVM model is basically a representation of different classes in a hyperplane in multidimensional space. The hyperplane will be generated in an iterative manner by SVM so that the error can be minimized. The goal of SVM is to divide the datasets into classes to find a maximum marginal hyperplane (MMH).
-The followings are important concepts in SVM −
+      <p1>Support Vector Machine: An SVM model is basically a representation of different classes in a hyperplane in multidimensional space. The hyperplane will be generated in an iterative manner by SVM so that the error can be minimized. The goal of SVM is to divide the datasets into classes to find a maximum marginal hyperplane (MMH).</br>
+The followings are important concepts in SVM − </br>
 1.	Support Vectors − Datapoints that are closest to the hyperplane is called support vectors. Separating line will be defined with the help of these data points.</br>
 2.	Hyperplane − As we can see in the above diagram, it is a decision plane or space which is divided between a set of objects having different classes.</br>
 3.	Margin − It may be defined as the gap between two lines on the closet data points of different classes. It can be calculated as the perpendicular distance from the line to the support vectors. Large margin is considered as a good margin and small margin is considered as a bad margin</br>
