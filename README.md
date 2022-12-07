@@ -40,13 +40,14 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
 
 <h1> Instructions on how to install the software <h1/>
       
-<p5>For this project we have used Google Collab </p5>
-1. Login to the google account. Create a new account if you don’t have already.<br/>
-2. Download the source code from GitHub.<br/>
+For this project we have used Google Collab
+1.	Login to the google account. Create a new account if you don’t have already.
+2.	Download the source code from GitHub.
 https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
-3. Upload the source code to Collab (http://colab.research.google.com/)<br/>
-      Steps: From http://colab.research.google.com/<br/>
-      Select: File ->Upload Notebook->Upload->Choose File<br/>
+3. Upload the source code to Collab (http://colab.research.google.com/)
+Steps: From http://colab.research.google.com/
+Select: File ->Upload Notebook->Upload->Choose File
+
 ![image](https://user-images.githubusercontent.com/22782181/206098930-94f1ab13-a1a4-4675-8710-eda33a541336.png)
       
 4. Dataset Connection to Connect to Google Drive: 
