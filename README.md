@@ -80,35 +80,19 @@ File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR
       
 <h1> Analysis</h1>
       <h3>Sentiment Analysis and Data Visualization</h3>
-      <p1></p1>
+<p1>Labeled data corpus for Sentiment Analysis SentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files </p1>
+* Outputs: Probability of positive and negative. 
+* Compound values in a range of -1 to 1, where -1 represents negative for each tweet.
+*  The compound value is comparable to a single measure of polarity.
+
       
 <h1> Results</h1>
       <h3></h3>
       <p1></p1>
-      
       <h3></h3>
       <p1></p1>
       
-      <h3></h3>
-      <p1></p1>
       
-      <h3></h3>
-      <p1></p1>
-      
-      <h3></h3>
-      <p1></p1>
-      
-      <h3></h3>
-      <p1></p1>
-      
-      <h3></h3>
-      <p1></p1>
-      
-      <h3></h3>
-      <p1></p1>
-      
-      <h3></h3>
-      <p1></p1>
       
  <h1> Test</h1>
       <h3>Classifier Test</h3>
