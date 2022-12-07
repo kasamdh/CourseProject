@@ -8,7 +8,7 @@
 
 <h1>Team Members</h1>
       
-* Kasam Dhakal (kdhakal2@illinois.edu) <br/>
+* Kasam Dhakal (kdhakal2@illinois.edu) - Captain <br/>
 
 * Nisarg Mistry (nmistry2@illinois.edu)<br/>
 
@@ -93,22 +93,18 @@ The followings are important concepts in SVM − </br>
 2.	Hyperplane − As we can see in the above diagram, it is a decision plane or space which is divided between a set of objects having different classes.</br>
 3.	Margin − It may be defined as the gap between two lines on the closet data points of different classes. It can be calculated as the perpendicular distance from the line to the support vectors. Large margin is considered as a good margin and small margin is considered as a bad margin</br>
 </p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      <h3></h3>
-      <p1></p1>
-      
-      
+      <h3>Naive Bayes Classifier</h3>
+      <p1>Naïve Bayes algorithms is a classification technique based on applying Bayes’ theorem with a strong assumption that all the predictors are independent to each other. In simple words, the assumption is that the presence of a feature in a class is independent to the presence of any other feature in the same class. In Bayesian classification, the main interest is to find the posterior probabilities</p1>
+      <h3>Stochastic Gradient Descent Classifier</h3>
+      <p1>This estimator implements regularized linear models with stochastic gradient descent (SGD) learning: the gradient of the loss is estimated each sample at a time and the model is updated along the way with a decreasing strength schedule (aka learning rate)</p1>
+      <h3>K Nearest Neighbors Classifier</h3>
+      <p1>The k-nearest neighbors' algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point. While it can be used for either regression or classification problems, it is typically used as a classification algorithm, working off the assumption that similar points can be found near one another.</p1>
+      <h3>Random Forest Classifier:</h3>
+      <p1>Random forest is a supervised learning algorithm which is used for both classification as well as regression. But however, it is mainly used for classification problems. As we know that a forest is made up of trees and more trees means more robust forest. Similarly, random forest algorithm creates decision trees on data samples and then gets the prediction from each of them and finally selects the best solution by means of voting. It is an ensemble method which is better than a single decision tree because it reduces the over-fitting by averaging the result.</p1>
+      <h3>Gradient Boosting Classifier</h3>
+      <p1>This algorithm builds an additive model in a forward stage-wise fashion; it allows for the optimization of arbitrary differentiable loss functions. In each stage n_classes_ regression trees are fit on the negative gradient of the loss function, e.g. binary or multiclass log loss. Binary classification is a special case where only a single regression tree is induced.</p1>
+      <h3>XGBoost Classifier</h3>
+      <p1>XGBoost, which stands for Extreme Gradient Boosting, is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library. It provides parallel tree boosting and is the leading machine learning library for regression, classification, and ranking problems.</p1>
       
  <h1> Test</h1>
       <h3>Classifier Test</h3>
