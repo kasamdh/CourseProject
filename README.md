@@ -1,10 +1,10 @@
 # Stock Market Tweet Analysis
 
-# Source Code: https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
-# Video Tutorial/Presentation: https://youtu.be/Lpwx3a3o3X0
-# Data: https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv
-# Powerpoint Presentation: https://github.com/kasamdh/CourseProject/blob/main/CS%20410%20%E2%80%93%20Final%20Presentation.pptx
-# Final Project Documentation:https://github.com/kasamdh/CourseProject/blob/main/Final_Project_Documentation.pdf
+## Source Code: https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
+## Video Tutorial/Presentation: https://youtu.be/Lpwx3a3o3X0
+## Data: https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv
+## Powerpoint Presentation: https://github.com/kasamdh/CourseProject/blob/main/CS%20410%20%E2%80%93%20Final%20Presentation.pptx
+## Final Project Documentation:https://github.com/kasamdh/CourseProject/blob/main/Final_Project_Documentation.pdf
 
 Introduction:
 Numerous factors, including both internal and external factors, can affect and move the stock market. Various data mining techniques are frequently employed to address this problem. Stock prices change instantly due to shifts in supply and demand. On the other hand, machine learning will offer a more precise, accurate, and logical method for addressing stock and market price concerns. A novel approach to creating simulation models that can predict stock market movements and whether they will increase, or decrease has been improved using ML algorithms. Several sentiment analysis studies used Support vector machines (SVM), Naive Bayes regression, Random Forest Classifier, and other techniques. The effectiveness of machine learning algorithms depends on the quantity of training data available.  To begin, we train many algorithms using Sentiment 5792 clean Twitter data. We utilized SVM to ascertain the typical sentiment of tweets for each trade day because this was the emotional analysis that performed the best.
