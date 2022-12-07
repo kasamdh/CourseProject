@@ -38,5 +38,19 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
  * Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis <br/>
 
 <h3> Instructions on how to install the software <h3/>
+      
+<p>For this project we have used Google Collab</p>
+1. Login to the google account. Create a new account if you don’t have already.<br/>
+2. Download the source code from GitHub.<br/>
+https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.ipynb
+3. Upload the source code to Collab (http://colab.research.google.com/)<br/>
+      Steps: From http://colab.research.google.com/<br/>
+      Select: File ->Upload Notebook->Upload->Choose File<br/>
+
+
+
+
+
+
 
 
