@@ -15,7 +15,7 @@ The Sentiment Dataset, which was made available (https://www.kaggle.com/datasets
       2.	Sentiment: Labeled data corpus for Sentiment AnalysisSentimentIntensityAnalyzer: library for classifying of sentimentsResults exported in text files.    Probability of positive and negative Compound values in a range of -1 to 1, where -1 represents negative for each tweet. <p>
 
 <h3>Tools, System and Dataset </h3>
-•	Google Collab
+* •	Google Collab
 •	http://www.tweepy.org/ - Python Library to access the Twitter API 
 •	http://www.nltk.org/ - Natural Language Toolkit
 •	Twitter data from Kaggle: https://www.kaggle.com/datasets/utkarshxy/stockmarkettweets-lexicon-data for Sentiment Analysis
