@@ -51,6 +51,16 @@ https://github.com/kasamdh/CourseProject/blob/main/StockMarketSentimentAnalysis.
 
 
 ![image](https://user-images.githubusercontent.com/22782181/206098930-94f1ab13-a1a4-4675-8710-eda33a541336.png)
+      
+4. Dataset Connection to Connect to Google Drive: 
+(https://github.com/kasamdh/CourseProject/blob/main/stock_data.csv)
+Steps: Download the stock_data.csv from GitHub and upload data set to the 		Google Drive.
+File path : Copy the file path from the Google Drive and replace it to 	DATA+DIR = mypath + “ ” in the Initilized relevant data URI’s section in 	Google Collab
+![image](https://user-images.githubusercontent.com/22782181/206099083-c269fe61-66d4-4678-bf73-668d4fbd3e1c.png)
+
+      
+    
+
 
 
 
